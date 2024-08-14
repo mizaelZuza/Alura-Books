@@ -65,7 +65,7 @@
 }
 @media screen and (min-width: 1280px) {
     .contato{
-        padding: 0 20vw;
+        padding: 2vw 20vw;
     }
 
     .contato__container-pesquisa{
