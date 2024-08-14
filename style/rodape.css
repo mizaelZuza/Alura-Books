@@ -43,7 +43,7 @@ hr{
         color: black;
     }
 }
-@media screen and (min-width: 1728px) {
+@media screen and (min-width: 1280px) {
     .rodape__lista{
         border-left: solid 1px;
         color: var(--cinza-lista-titulo);

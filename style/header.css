@@ -146,7 +146,7 @@ a{
     }
 
 }
-@media screen and (min-width: 1728px){
+@media screen and (min-width: 1280px){
     .container__titulo{
         margin-right: 0.5em;
     }

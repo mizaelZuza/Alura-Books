@@ -136,7 +136,7 @@
         background-color: var(--laranja-efeito);
     }
 }
-@media screen and (min-width: 1728px) {
+@media screen and (min-width: 1280px) {
     .container__carrossel{
         display: flex;
         margin: 0 10vw 2em 10vw;
@@ -152,7 +152,7 @@
     }
     .descricao__titulo{
         padding: 0 0.5em 0 0;
-        font-size: 2rem;
+        font-size: 1.6rem;
     }
     .descricao__titulo-livro{
         padding: 0;

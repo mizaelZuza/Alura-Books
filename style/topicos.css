@@ -50,9 +50,6 @@
     .topicos__container{
         padding-bottom: .5em;
     }
-    .topicos{
-        padding: 0 5vw 0 5vw;
-    }
     .topicos__lista-item{
         padding: 1.5em 2em;
         margin: 0 1em 1em 0;
@@ -65,10 +62,8 @@
     }
     
 }
-@media screen and (min-width: 1728px) {
-    .topicos{
-        padding: 0 20vw 0 20vw;
-    }
+
+@media screen and (min-width: 1280px) {
     .topicos__lista{
         margin: 0 5vw 0 5vw;
     }
@@ -80,10 +75,5 @@
     }
     .topicos__container{
         padding: 0 3em 2em 3em;
-    }
-}
-@media screen and(max-width: 1728px) {
-    topicos{
-        padding: 0 20vw 0 20vw;   
     }
 }
